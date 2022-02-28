@@ -12,7 +12,7 @@
   <img align="center" alt="robotheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="robotheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="tobotheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="right" alt="robotheus-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rt1Hf4tBUy6AUr4ChRaosP_U2PNxs9UIiw&usqp=CAU">
+  <img align="right" alt="robotheus-pic" height="150" style="border-radius:50px;" src="https://videos.files.wordpress.com/G7StzwR1/2254306098123055-hd_hd.original.jpg">
 </div>
   
  ##
