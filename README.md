@@ -1,7 +1,7 @@
 ## welcome to my profile ツ
 
 ### about me: 
-Me chamo Matheus Henrique, estou no 3° período do curso de ciência da computação na UFSJ.<br>
+Me chamo Matheus Henrique e sou estudante do curso de ciência da computação na UFSJ.<br>
 Meu foco atualmente é no desenvolvimento WEB e mobile, mas gosto de aprender de tudo um pouco.<br>
 
 
